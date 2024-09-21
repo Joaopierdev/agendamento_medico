@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj": {}
+    "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj": {
+    "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj",
         "projectName": "AgendamentoMedico",
-        "projectPath": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj",
-        "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\obj\\",
+        "projectPath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

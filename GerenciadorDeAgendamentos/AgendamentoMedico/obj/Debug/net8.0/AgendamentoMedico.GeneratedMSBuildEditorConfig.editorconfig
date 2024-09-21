@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AgendamentoMedico
-build_property.ProjectDir = C:\Users\joaop\Documents\GitHub\agendamento_medico\GerenciadorDeAgendamentos\AgendamentoMedico\
+build_property.ProjectDir = C:\Users\ferna\OneDrive\Área de Trabalho\Agendamento Medico\agendamento_medico\GerenciadorDeAgendamentos\AgendamentoMedico\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -19,10 +19,11 @@ namespace AgendamentoMedico.Models
 
         public Agendamento() { }
 
-        public Agendamento(Paciente paciente, Medico medico)
+        public Agendamento(Paciente paciente, Medico medico, DateTime data)
         {
             Paciente = paciente;
             Medico = medico;
+            Data = data;
         }
     }
 }

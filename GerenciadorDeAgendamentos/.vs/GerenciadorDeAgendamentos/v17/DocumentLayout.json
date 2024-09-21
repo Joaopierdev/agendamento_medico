@@ -1,45 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\",
+  "WorkspaceRootPath": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\joaop\\documents\\github\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\joaop\\documents\\github\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\agendamentosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\agendamentosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\joaop\\documents\\github\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\dtos\\agendamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\dtos\\agendamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\joaop\\documents\\github\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\joaop\\documents\\github\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\joaop\\documents\\github\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\joaop\\documents\\github\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\agendamentomedico.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\agendamentomedico.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\joaop\\documents\\github\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\joaop\\documents\\github\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\ferna\\onedrive\\\u00E1rea de trabalho\\agendamento medico\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\joaop\\documents\\github\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\ferna\\onedrive\\\u00E1rea de trabalho\\agendamento medico\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\ferna\\onedrive\\\u00E1rea de trabalho\\agendamento medico\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\agendamentosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\agendamentosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\ferna\\onedrive\\\u00E1rea de trabalho\\agendamento medico\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\dtos\\agendamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\dtos\\agendamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\ferna\\onedrive\\\u00E1rea de trabalho\\agendamento medico\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\ferna\\onedrive\\\u00E1rea de trabalho\\agendamento medico\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\ferna\\onedrive\\\u00E1rea de trabalho\\agendamento medico\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\agendamentomedico.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\agendamentomedico.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\ferna\\onedrive\\\u00E1rea de trabalho\\agendamento medico\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|c:\\users\\ferna\\onedrive\\\u00E1rea de trabalho\\agendamento medico\\agendamento_medico\\gerenciadordeagendamentos\\agendamentomedico\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0758FE7-96C0-421B-A9AE-0E0B2E32E256}|AgendamentoMedico\\AgendamentoMedico.csproj|solutionrelative:agendamentomedico\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,117 +46,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AgendamentoService.cs",
-              "DocumentMoniker": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Services\\AgendamentoService.cs",
-              "RelativeDocumentMoniker": "AgendamentoMedico\\Services\\AgendamentoService.cs",
-              "ToolTip": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Services\\AgendamentoService.cs",
-              "RelativeToolTip": "AgendamentoMedico\\Services\\AgendamentoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T01:07:52.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AgendamentoController.cs",
-              "DocumentMoniker": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Controllers\\AgendamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Controllers\\AgendamentoController.cs",
               "RelativeDocumentMoniker": "AgendamentoMedico\\Controllers\\AgendamentoController.cs",
-              "ToolTip": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Controllers\\AgendamentoController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Controllers\\AgendamentoController.cs",
               "RelativeToolTip": "AgendamentoMedico\\Controllers\\AgendamentoController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAIwCwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T01:04:51.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\appsettings.json",
-              "RelativeDocumentMoniker": "AgendamentoMedico\\appsettings.json",
-              "ToolTip": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\appsettings.json",
-              "RelativeToolTip": "AgendamentoMedico\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-18T00:55:42.615Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "AgendamentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\DTOs\\AgendamentoDTO.cs",
+              "RelativeDocumentMoniker": "AgendamentoMedico\\DTOs\\AgendamentoDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\DTOs\\AgendamentoDTO.cs",
+              "RelativeToolTip": "AgendamentoMedico\\DTOs\\AgendamentoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:28:44.704Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AgendamentoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\DTOs\\AgendamentoDTO.cs",
-              "RelativeDocumentMoniker": "AgendamentoMedico\\DTOs\\AgendamentoDTO.cs",
-              "ToolTip": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\DTOs\\AgendamentoDTO.cs",
-              "RelativeToolTip": "AgendamentoMedico\\DTOs\\AgendamentoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T00:28:44.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "AgendamentosDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentosDbContext.cs",
               "RelativeDocumentMoniker": "AgendamentoMedico\\AgendamentosDbContext.cs",
-              "ToolTip": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentosDbContext.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentosDbContext.cs",
               "RelativeToolTip": "AgendamentoMedico\\AgendamentosDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T23:54:32.16Z",
+              "WhenOpened": "2024-09-17T23:54:32.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Agendamento.cs",
+              "RelativeDocumentMoniker": "AgendamentoMedico\\Models\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Agendamento.cs",
+              "RelativeToolTip": "AgendamentoMedico\\Models\\Agendamento.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:39:07.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "AgendamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Services\\AgendamentoService.cs",
+              "RelativeDocumentMoniker": "AgendamentoMedico\\Services\\AgendamentoService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Services\\AgendamentoService.cs",
+              "RelativeToolTip": "AgendamentoMedico\\Services\\AgendamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:07:52.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Program.cs",
               "RelativeDocumentMoniker": "AgendamentoMedico\\Program.cs",
-              "ToolTip": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Program.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Program.cs",
               "RelativeToolTip": "AgendamentoMedico\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T23:34:04.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T23:34:04.779Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AgendamentoMedico",
-              "DocumentMoniker": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj",
               "RelativeDocumentMoniker": "AgendamentoMedico\\AgendamentoMedico.csproj",
-              "ToolTip": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\AgendamentoMedico.csproj",
               "RelativeToolTip": "AgendamentoMedico\\AgendamentoMedico.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-18T00:59:56.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T00:59:56.893Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Agendamento.cs",
-              "DocumentMoniker": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Agendamento.cs",
-              "RelativeDocumentMoniker": "AgendamentoMedico\\Models\\Agendamento.cs",
-              "ToolTip": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Agendamento.cs",
-              "RelativeToolTip": "AgendamentoMedico\\Models\\Agendamento.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T23:39:07.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Medico.cs",
-              "DocumentMoniker": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Medico.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Medico.cs",
               "RelativeDocumentMoniker": "AgendamentoMedico\\Models\\Medico.cs",
-              "ToolTip": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Medico.cs",
               "RelativeToolTip": "AgendamentoMedico\\Models\\Medico.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAnwAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Paciente.cs",
               "RelativeDocumentMoniker": "AgendamentoMedico\\Models\\Paciente.cs",
-              "ToolTip": "C:\\Users\\joaop\\Documents\\GitHub\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\\u00C1rea de Trabalho\\Agendamento Medico\\agendamento_medico\\GerenciadorDeAgendamentos\\AgendamentoMedico\\Models\\Paciente.cs",
               "RelativeToolTip": "AgendamentoMedico\\Models\\Paciente.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

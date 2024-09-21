@@ -41,22 +41,18 @@ namespace AgendamentoMedico.Controllers
                 throw new Exception("Médico mão existe");
             }
 
-            //Order order = new Order(
-            //    customer: customer,      objeto paciente
-            //    products: orderItems,        objeto medico
-            //    orderDate: DateTime.Now,       data agendamento
-                
-            //);
 
-            //_context.Orders.Add(order);
-            //await _context.SaveChangesAsync();
+            DateTime data;
 
-            //return CreatedAtAction(nameof(PostOrder), new { id = order.Id }, order);
+            Agendamento agendamento = new Agendamento(
+                paciente = paciente,
+                medico = medico,
+                data = DateTime.Now
+            );
 
-
-
-
-
+            _context.agendamentos.Add(agendamento);
+            await _context.SaveChangesAsync();
+            return CreatedAtAction(nameof(PostAgendamento), new { id = agendamento.Id }, agendamento);
         }
 
 
